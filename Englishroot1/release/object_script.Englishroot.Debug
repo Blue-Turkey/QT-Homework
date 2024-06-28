@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\testdialog.o
+./debug\wordloader.o
+./debug\intro.o
+./debug\qrc_BackGround.o
+./debug\qrc_BackGround2.o
+./debug\moc_mainwindow.o
+./debug\moc_testdialog.o
+./debug\moc_intro.o
+);

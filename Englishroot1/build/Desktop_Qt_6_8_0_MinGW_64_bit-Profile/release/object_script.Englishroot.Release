@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/mainwindow1.o
+release/testdialog.o
+release/wordloader.o
+release/intro.o
+release/wordloader1.o
+release/qrc_BackGround.o
+release/qrc_BackGround2.o
+release/qrc_txt.o
+release/moc_mainwindow.o
+release/moc_mainwindow1.o
+release/moc_testdialog.o
+release/moc_intro.o

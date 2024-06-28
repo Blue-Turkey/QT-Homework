@@ -1,0 +1,838 @@
+A = 1 = acid  ,  acri  ,  acrid  ,  acu , ac = sour  ,  sharp = acidity = 酸度  ,  酸性 = n.
+A = 1 = acid  ,  acri  ,  acrid  ,  acu , ac = sour  ,  sharp = acute = 尖锐的 = a.
+A = 1 = acid  ,  acri  ,  acrid  ,  acu , ac = sour  ,  sharp = acme = 顶点  ,  顶峰 = n.
+A = 2 = acro = top = acrobat = 杂技演员 = n.
+A = 2 = acro = top = acrophobia = 恐高症 = n.
+A = 3 = act = to do  ,  to drive = activity = 活动 = n.
+A = 3 = act = to do  ,  to drive = enact = 实施  ,  颁布 = v.
+A = 3 = act = to do  ,  to drive = exact = 精准的 = a.
+A = 3 = act = to do  ,  to drive = exact = 苛求  ,  强求 = v.
+A = 4 = aer  ,  aero  ,  aeri = air = aerology = 气象学  ,  大气学 = n.
+A = 4 = aer  ,  aero  ,  aeri = air = aerosphere = 大气层内外空间 = n.
+A = 4 = aer  ,  aero  ,  aeri = air = aerodrome = 飞机场 = n.
+A = 5 = ag = to do  ,  to act = agenda = 议事日程 = n.
+A = 5 = ag = to do  ,  to act = agency = 代理处 = n.
+A = 5 = ag = to do  ,  to act = coagent = 合作者 = n.
+A = 6 = agon = struggle = agony = 痛苦 = n.
+A = 6 = agon = struggle = agonize = 感到痛苦 = v.
+A = 7 = agri  ,  agro  ,  agr = field  ,  land = agriculture = 农业 = n.
+A = 7 = agri  ,  agro  ,  agr = field  ,  land = agrobiology = 农业生物学 = n.
+A = 8 = alb = white = albescent = 发白的 = a.
+A = 8 = alb = white = albinism = 白化病 = n.
+A = 9 = alt = high = altitude = 高度 = n.
+A = 9 = alt = high = exalt = 升高  ,  赞扬 = v.
+A = 10 = alter  ,  ali = other  ,  to change = alteration = 改造  ,  改变 = n.
+A = 10 = alter  ,  ali = other  ,  to change = alternative = 二者择一 = n.
+A = 10 = alter  ,  ali = other  ,  to change = alien = 外国的  ,  外来的 = a.
+A = 11 = am  ,  amor = love = amateur = 业余爱好者 = n.
+A = 11 = am  ,  amor = love = amour = 男女爱情 = n.
+A = 12 = ambul = to walk = ambulance = 救护车  ,  流动医院 = n.
+A = 12 = ambul = to walk = circumambulate = 环行  ,  绕…而行 = v.
+A = 12 = ambul = to walk = somnambulate = 梦游  ,  梦行 = v.
+A = 13 = ample , ampl = large = amplify = 放大  ,  扩大 = v.
+A = 13 = ample , ampl = large = amplitude = 广大 = n.
+A = 14 = anc  ,  anti = old = ancient = 古代的 = a.
+A = 14 = anc  ,  anti = old = antique = 古代的 = a.
+A = 14 = anc  ,  anti = old = antique = 古物 = n.
+A = 15 = anim = life  ,  spirit = animal = 动物 = n.
+A = 15 = anim = life  ,  spirit = animate = 使有生气  ,  活泼 = v.
+A = 16 = ann  ,  enn = year = annual = 一年一度的 = a.
+A = 16 = ann  ,  enn = year = anniversary = 周年纪念 = n.
+A = 17 = anthrop = man  ,  human = anthropology = 人类学 = n.
+A = 17 = anthrop = man  ,  human = philanthropist = 博爱主义者 = n.
+A = 18 = apt  ,  ept = to fit  ,  ability = aptitude = 适应能力  ,  才能 = n.
+A = 18 = apt  ,  ept = to fit  ,  ability = adapt = 使适应  ,  适应环境 = v.
+A = 19 = aqu = water = aquarium = 水族馆 = n.
+A = 19 = aqu = water = aqueduct = 引水槽 = n.
+A = 20 = arbit = to judge = arbiter = 仲裁人  ,  泰斗 = n.
+A = 20 = arbit = to judge = arbitrary = 武断的 = a.
+A = 21 = arch  ,  archy = ruler  ,  rule  ,  chief = anarchy = 无政府状态 = n.
+A = 21 = arch  ,  archy = ruler  ,  rule  ,  chief = monarch = 君主  ,  帝主 = n.
+A = 22 = arm = weapon = disarm = 解除武器 = v.
+A = 22 = arm = weapon = armament = 兵器 = n.
+A = 23 = art = skill  ,  joint  ,  trick = artful = 巧妙的  ,  狡猾的 = a.
+A = 23 = art = skill  ,  joint  ,  trick = artifice = 技巧  ,  诡计 = n.
+A = 23 = art = skill  ,  joint  ,  trick = artificial = 人工的 = a.
+A = 24 = astro  ,  aster = star = astronaut = 宇航员 = n.
+A = 24 = astro  ,  aster = star = astrophysics = 天体物理学 = n.
+A = 25 = audi  ,  audit = to hear = audience = 听众  ,  观众 = n.
+A = 25 = audi  ,  audit = to hear = auditorium = 礼堂  ,  讲堂 = n.
+A = 26 = aug = to increase = augment = 增大 = v.
+A = 26 = sep = to increase = augmentation = 增大  ,  扩大 = n.
+A = 27 = av  ,  avar  ,  avi = desire  ,  bird = avarice = 贪心 = n.
+A = 27 = av  ,  avar  ,  avi = desire  ,  bird = aviculture = 养鸟业 = n.
+B = 1 = ball  ,  bol = to throw  ,  dance  ,  ball = balloon = 气球 = n.
+B = 1 = ball  ,  bol = to throw  ,  dance  ,  ball = bullet = 枪弹 = n.
+B = 2 = balm = balsam = balmy = 芬芳的  ,  温和的 = a.
+B = 2 = balm = balsam = embalm = 保存  ,  铭记 = v.
+B = 3 = ban = to prohibit = banish = 驱逐出境 = v.
+B = 3 = ban = to prohibit = abandon = 抛弃  ,  放弃 = v.
+B = 4 = bar = weight  ,  stick = baric = 气压的 = a.
+B = 4 = bar = weight  ,  stick = barometer = 气压计 = n.
+B = 4 = bar = weight  ,  stick = barrier = 栅栏 = n.
+B = 4 = bar = weight  ,  stick = barrage = 阻塞  ,   遮断 = n.
+B = 5 = bas  ,  base = low  ,  foundation = basement = 地下室 = n.
+B = 5 = bas  ,  base = low  ,  foundation = bass = 低音的 = a.
+B = 5 = bas  ,  base = low  ,  foundation = bass = 低音 = n.
+B = 5 = bas  ,  base = low  ,  foundation = abase = 降低 = v.
+B = 6 = bat = to beat = batter = 连续猛打 = v.
+B = 6 = bat = to beat = combat = 战斗 = n.
+B=7= bell, bel = war, to fight =rebellion=反叛，反抗=n.
+B=7= bell, bel = war, to fight =rebel=反叛=v.
+B = 8 = bibli , bibl = book = bibliography = 书目提要 = n.
+B = 8 = bibli , bibl = book = bible = 圣经 = n.
+B = 9 = bio  ,  bi = life = biology = 生物 = n.
+B = 9 = bio  ,  bi = life = biography = 传记 = n.
+B = 10 = blanc , blank = white = blank = 空白的 = a.
+B = 10 = blanc , blank = white = blanch = 漂白  ,  发白 = v.
+B = 11 = brace = two arms = bracelet = 手镯 = n.
+B = 11 = brace = two arms = embrace = 拥抱  ,  包括 = v.
+B = 12 = braid = to twist = braid = 编成辫子 = v.
+B = 12 = braid = to twist = upbraid = 谴责 = v.
+B = 13 = brev  ,  bridg = short = brevity = 短暂  ,  简洁 = n.
+B = 13 = brev  ,  bridg = short = abridge = 删节  ,  削减 = v.
+C=1= cad, cas, cid =to fall=casual=偶然的=a.
+C=1= cad, cas, cid =to fall=occasion=事情的发生，时机=n.
+C=1= cad, cas, cid =to fall=incident=偶然事件=n.
+C=1= cad, cas, cid =to fall=accidental=偶然的=a.
+C=2=cand= white, glow =candela=烛光=n.
+C=2=cand= white, glow =candle=蜡烛=n.
+C=3= cant, cent = song, to sing =chant=圣歌，赞美歌=n.
+C=3= cant, cent = song, to sing =cantata=清唱剧=n.
+C=3= cant, cent = song, to sing =accent=口音，重音=n.
+C=3= cant, cent = song, to sing =accentuate=强调，=v.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =occupation=职业，占有=n.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =capacity=容量，才能=n.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =captive=俘虏=n.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =capture=捉拿=v.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =accept=接受，承认=v.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =receive=接受，收到=v.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =anticipate=预料，预期=v.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =participate=参加，共享=v.
+C=4= cap, capt, cept, ceive, cip, cup = to take, to hold =occupy=占领，使用=v.
+C=5= cap, cipit =head=capital=首都，资本=n.
+C=5= cap, cipit =head=capital=首要的=a.
+C=5= cap, cipit =head=captain=首领，船长=n.
+C=5= cap, cipit =head=capitation=人头税，丁税=n.
+C=6= card, cord =heart=cardiac=心脏的=a.
+C=6= card, cord =heart=cordial=真诚的=a.
+C=6= card, cord =heart=accord=一致，符合，协调=n.
+C=7=carn=flesh=carnage=屠杀=n.
+C=7=carn=flesh=carnation=肉色的=a.
+C=7=carn=flesh=carnival=狂欢节，谢肉节=n.
+C=8= ced, ceed, cess =to go=antecedent=先行的，=a.
+C=8= ced, ceed, cess =to go=ancestor=祖先，祖宗=n.
+C=8= ced, ceed, cess =to go=concede=让步，容许=v.
+C=8= ced, ceed, cess =to go=precede=在先，优于=v.
+C=8= ced, ceed, cess =to go=proceed=继续进行，前进=v.
+C=8= ced, ceed, cess =to go=process=过程，进行=n.
+C=9=celer= quick, speed =accelerate=加速，加快=v.
+C=9=celer= quick, speed =decelerate=减速=v.
+C=10=cent=hundred=century=世纪=n.
+C=10=cent=hundred=percentage=百分率=n.
+C=11= center, centr =center=concentrate=集中，=v.
+C=11= center, centr =center=concentric=同心的，集中的=a.
+C=12= cern, cert, cret =sure=concern=关系到=v.
+C=12= cern, cert, cret =sure=certainty=确实，确定=n.
+C=12= cern, cert, cret =sure=discreet=慎重的，谨慎的=a.
+C=13=chron=time=chronic=长期的=a.
+C=13=chron=time=chronology=年表=n.
+C=14= cid, cis = to cut, to kill =insecticide=杀虫剂=n.
+C=14= cid, cis = to cut, to kill =suicide=自杀=n.
+C=14= cid, cis = to cut, to kill =incise=切割，雕刻=v.
+C=14= cid, cis = to cut, to kill =precise=精确的=a.
+C=15= circ, cycl = ring, circle =circular=圆的，循环的=a.
+C=15= circ, cycl = ring, circle =bicycle=自行车=n.
+C=15= circ, cycl = ring, circle =encyclopedia=百科全书=n.
+C=15= circ, cycl = ring, circle =encircle=环绕，包围=v.
+C=16=cit= to quote, to call =excite=兴奋，刺激=v.
+C=16=cit= to quote, to call =incite=鼓励，煽动=v.
+C=16=cit= to quote, to call =recite=背诵=v.
+C=17= claim, clam = cry out, shout =acclaim=欢呼，喝彩=v.
+C=17= claim, clam = cry out, shout =declaim=朗诵，演说=v.
+C=17= claim, clam = cry out, shout =exclaim=叫喊，大声说=v.
+C=17= claim, clam = cry out, shout =proclaim=公布，声明=v.
+C=17= claim, clam = cry out, shout =clamor=喧哗，吵闹=n.
+C=18= clear, clar, clair = clear, bright =clarify=澄清，弄清=v.
+C=18= clear, clar, clair = clear, bright =declare=宣言，=v.
+C=19= clin, cliv = to lean, slope =decline=倾斜，衰退=v.
+C=19= clin, cliv = to lean, slope =incline=倾向，偏向=v.
+C=19= clin, cliv = to lean, slope =recline=斜靠，歇躺=v.
+C=20= clos, clud, clus =to close=enclose=包围，围绕=v.
+C=20= clos, clud, clus =to close=exclude=排除，隔绝=v.
+C=20= clos, clud, clus =to close=include=包括=v.
+C=21= corp, corpor =body=corpse=尸体=n.
+C=21= corp, corpor =body=corporation=公司，团体=n.
+C=21= corp, corpor =body=corporal=肉体的=a.
+C=22= cracy, crat = to rule, ruler =democracy=民主政治=n.
+C=22= cracy, crat = to rule, ruler =autocrat=独裁者=n.
+C=22= cracy, crat = to rule, ruler =theocracy=神权统治=n.
+C=22= cracy, crat = to rule, ruler =monocracy=独裁统治=n.
+C=22= cracy, crat = to rule, ruler =mobocrat=暴民首领=n.
+C=23= creed, cred = to believe, to trust =credible=可靠的，=a.
+C=23= creed, cred = to believe, to trust =creditable=可以信任的=a.
+C=23= creed, cred = to believe, to trust =discredit=不信任，=v.
+C=23= creed, cred = to believe, to trust =credulous=轻信的=a.
+C=24=calor=heat=calorie=热卡=n.
+C=24=calor=heat=calorify=加热=v.
+C=25=camp=field=campus=校园=n.
+C=25=camp=field=campaign=战役=n.
+C=26= car, char =dear=charity=慈爱，慈善=n.
+C=26= car, char =dear=cherish=珍爱=v.
+C=27= card, chart =paper=chart=图表=n.
+C=27= card, chart =paper=charter=特许状，契约=n.
+C=28=cav=hole=cave=洞穴=n.
+C=28=cav=hole=excavate=挖掘=v.
+C=29=cens=to judge=censor=审查员=n.
+C=29=cens=to judge=censure=责难=n.
+C=30=chor= to dance, to sing =chorus=合唱（队）=n.
+C=30=chor= to dance, to sing =choreography=舞蹈设计=n.
+C=30=chor= to dance, to sing =choir=合唱队=n.
+C=31=chrom=color=monochrome=单色的=a.
+C=31=chrom=color=chromatic=彩色的=a.
+C=32=cil=to call=conciliate=安慰，劝诱=v.
+C=32=cil=to call=reconcile=和解=v.
+C=33=civ=citizen=civil=市民的=a.
+C=33=civ=citizen=civilization=文明=n.
+C=34=coct=to cook=concoct=编造，虚构=v.
+C=34=coct=to cook=decoct=煎，=v.
+C=35=cogn=to know=cognition=认知，=n.
+C=35=cogn=to know=recognize=认出=v.
+C=36=cosm(o)=world=cosmos=宇宙=n.
+C=36=cosm(o)=world=microcosm=微观世界=n.
+C=37= crit, cris = to judge, to discern =criticism=批评=n.
+C=37= crit, cris = to judge, to discern =criterion=标准=n.
+C=38=cryo=cold=cryobiology=低温生物学=n.
+C=38=cryo=cold=cryoprotective=防冷冻的=a.
+C=39=custom=habit=customary=习惯性的=a.
+C=39=custom=habit=accustom=使习惯=v.
+C=40= cur, curs, cour, cours =to run=concur=同时发生=v.
+C=40= cur, curs, cour, cours =to run=currency=流传，流通货币=n.
+C=40= cur, curs, cour, cours =to run=concourse=汇合，=n.
+C=40= cur, curs, cour, cours =to run=excurse=远足，=v.
+C=41=cur=to care=secure=安全的=a.
+C=41=cur=to care=curious=好奇的=a.
+C=42=cult=to till=culture=文化=n.
+C=42=cult=to till=cultivate=耕作，培养=v.
+C=42=cult=to till=aquiculture=水产养殖=n.
+C=43= cub, cumb =to lie down=succumb=屈服，死亡=v.
+C=43= cub, cumb =to lie down=encumber=妨害，阻碍=v.
+C=43= cub, cumb =to lie down=incubate=孵卵，伏巢=v.
+C=44=crypt= secret, hidden =cryptogram=密码，暗号=n.
+C=44=crypt= secret, hidden =cryptonym=匿名=n.
+C=44=crypt= secret, hidden =cryptic=秘密的=a.
+C=45= cru, crus, curx =to cross=crucial=关键的，十字形的=a.
+C=45= cru, crus, curx =to cross=cruciform=十字形=n.
+C=45= cru, crus, curx =to cross=cruciform=十字形的=a.
+C=46= cre, crease = to grow, to make =create=创造=v.
+C=46= cre, crease = to grow, to make =increase=增加=v.
+C=46= cre, crease = to grow, to make =procreate=繁殖，生产=v.
+D=1=demn=harm=condemn=谴责，指责=v.
+D=1=demn=harm=indemnity=赔偿=n.
+D=2=dem(o)=people=democracy=民主=n.
+D=2=dem(o)=people=demography=人口统计学=n.
+D=2=dem(o)=people=epidemic=流行的，传染性的=a.
+D=2=dem(o)=people=pandemic=广泛流行的=a.
+D=3=dens=to make thick=dense=浓密的=a.
+D=3=dens=to make thick=condense=浓缩=v.
+D=4=dent=tooth=dentist=牙医=n.
+D=4=dent=tooth=denture=假牙=n.
+D=5= derm, dermat =skin=dermatitis=皮炎=n.
+D=5= derm, dermat =skin=dermatologist=皮肤病学家=n.
+D=5= derm, dermat =skin=epidermis=表皮，外皮=n.
+D=6=dexter=right=dexterous=灵巧的，敏捷的=a.
+D=6=dexter=right=ambidexterous=非常灵巧的=a.
+D=7=di=day=diary=日记=n.
+D=8= dict, dicat = to say, to assert =dictate=听写，口授=v.
+D=8= dict, dicat = to say, to assert =dictionary=字典=n.
+D=8= dict, dicat = to say, to assert =dictum=格言，断言=n.
+D=8= dict, dicat = to say, to assert =benediction=祝福=n.
+D=9=dign= worthy, noble =dignity=威严，庄严=n.
+D=9=dign= worthy, noble =indignity=轻视，侮辱=n.
+D=10= doc, doct =to teach=doctor=医生，博士=n.
+D=10= doc, doct =to teach=doctrine=教条，=n.
+D=10= doc, doct =to teach=document=文件=n.
+D=11= don, dit =to give=donate=捐赠=v.
+D=11= don, dit =to give=edit=编辑=v.
+D=12=dom=house=dome=圆屋顶，大厦=n.
+D=12=dom=house=domestic=家里的，=a.
+D=13=dorm=to sleep=dormitory=寝室，宿舍=n.
+D=13=dorm=to sleep=dormant=休眠的，冬眠的=a.
+D=14=draw=to pull=drawl=拉长语调说话=v.
+D=14=draw=to pull=withdraw=撤回，缩回=v.
+D=15=drom=to run=aerodrome=飞机场=n.
+D=15=drom=to run=dromometer=速度计=n.
+D=16= du, dub, dou =two=dual=二重的，二元的=a.
+D=16= du, dub, dou =two=double=双倍的=a.
+D=17= duc, duct = to lead, to bring =deduce=推论=v.
+D=17= duc, duct = to lead, to bring =introduce=介绍，=v.
+D=17= duc, duct = to lead, to bring =produce=生产=v.
+D=18=dur= last, hard =durable=的=a.
+D=18=dur= last, hard =endure=持久，耐久=v.
+D=19= dyn, dynam =power=dynasty=王朝=n.
+D=19= dyn, dynam =power=dynamics=动力学=n.
+E=1=ed=to eat=edible=可吃的，=a.
+E=1=ed=to eat=inedible=不可吃的=a.
+E=2=ego=I=egoism=利己主义=n.
+E=2=ego=I=egocentric=自我中心的=a.
+E=3= em, amp, empt = to take, to procure =example=榜样，例子=n.
+E=3= em, amp, empt = to take, to procure =sample=样品，标本=n.
+E=3= em, amp, empt = to take, to procure =exempt=免除=v.
+E=4= emper, imper =to command=emperor=皇帝=n.
+E=4= emper, imper =to command=imperative=命令的，=a.
+E=4= emper, imper =to command=imperial=帝国的=a.
+E=5= equ, equi = equal, even =equality=平等=n.
+E=5= equ, equi = equal, even =equation=方程式=n.
+E=5= equ, equi = equal, even =equity=公平，公正=n.
+E=5= equ, equi = equal, even =equivalent=相等的，等价的=a.
+E=6= erg, ert = energy, to work =energy=能量=n.
+E=6= erg, ert = energy, to work =energetic=充满活力的=a.
+E=7=err= to wander, mistake =error=错误=n.
+E=7=err= to wander, mistake =aberrant=越轨的=a.
+E=7=err= to wander, mistake =erratic=古怪的=a.
+E=8=esthet=feeling=aesthetics=美学=n.
+E=8=esthet=feeling=anesthesia=麻醉=n.
+E=9=extr=out=extra=额外的=a.
+E=9=extr=out=external=外部的=a.
+E=10=ev=age=primeval=原始的=a.
+E=10=ev=age=medieval=中世纪的=a.
+F=1= fabl, fabal =to speak=fable=寓言，=n.
+F=1= fabl, fabal =to speak=affable=温和的，和蔼的=a.
+F=2=fabric=to make=fabricate=制作，捏造=v.
+F=2=fabric=to make=prefabricated=预制的=a.
+F=3= fac, fic =face=face=脸=n.
+F=3= fac, fic =face=facetious=轻浮的=a.
+F=3= fac, fic =face=preface=前言，序言=n.
+F=4= fac, fact, fect, fic, fig = to make, to do =facile=容易做的=a.
+F=4= fac, fact, fect, fic, fig = to make, to do =facilitate=使容易=v.
+F=4= fac, fact, fect, fic, fig = to make, to do =benefaction=善事，恩惠=n.
+F=4= fac, fact, fect, fic, fig = to make, to do =malefaction=罪恶，犯罪=n.
+F=5= fall, fail, fault = err, to deceive =failure=失败=n.
+F=5= fall, fail, fault = err, to deceive =fault=过失，缺点=n.
+F=5= fall, fail, fault = err, to deceive =fallible=易错的=a.
+F=6=feder=league=federal=联盟的，联邦的=a.
+F=6=feder=league=confederate=联合的=a.
+F=7=fer= to bring, to carry =circumference=四周，周围=n.
+F=7=fer= to bring, to carry =conference=商量，会议=n.
+F=7=fer= to bring, to carry =offer=提供，贡献=v.
+F=8=ferv=boil=fervid=热情的=a.
+F=8=ferv=boil=perfervid=十分热情的=a.
+F=9=fess=to speak=confess=承认，坦白=v.
+F=9=fess=to speak=professor=教授=n.
+F=10=fest= to strike,feast =infest=大批出没，扰乱=v.
+F=10=fest= to strike,feast =manifest=明白的，显然的=a.
+F=10=fest= to strike,feast =festival=节日，宴会=n.
+F=10=fest= to strike,feast =festive=节日的=a.
+F=11=fid= to trust, faith =confide=吐露，=v.
+F=11=fid= to trust, faith =confidence=自信，信任=n.
+F=11=fid= to trust, faith =confidential=秘密的，机密的=a.
+F=12=fil=thread=filament=细线=n.
+F=12=fil=thread=profile=外形，轮廓=n.
+F=12=fil=thread=file=行列，档案=n.
+F=12=fil=thread=filar=线状的=a.
+F=13=fin= to end, boundary =finish=完成，结束=v.
+F=13=fin= to end, boundary =finite=有限的=a.
+F=13=fin= to end, boundary =infinite=无限的=a.
+F=14=firm=firm=infirm=虚弱的=a.
+F=14=firm=firm=affirm=断言，证实=v.
+F=14=firm=firm=confirm=确认，证实=v.
+F=15=fix=to fix=fixation=固定=n.
+F=15=fix=to fix=affix=附加，贴上=n.
+F=15=fix=to fix=prefix=前缀=n.
+F=15=fix=to fix=suffix=后缀=n.
+F=16= flam, flagr =blaze=flame=火焰=n.
+F=16= flam, flagr =blaze=inflame=燃烧，发怒，红肿=v.
+F=17=flat=to blow=inflate=充气，膨胀=v.
+F=17=flat=to blow=inflation=充分，通货膨胀=n.
+F=17=flat=to blow=conflation=合并，合成=n.
+F=18= flect, flex =to bend=flexible=易弯曲的=a.
+F=18= flect, flex =to bend=inflect=使弯曲=v.
+F=18= flect, flex =to bend=reflect=反射，沉思=v.
+F=19=flict=to strike=afflict=使苦恼，折磨=v.
+F=19=flict=to strike=conflict=冲突，斗争=v.
+F=19=flict=to strike=infliction=痛苦，负担=n.
+F=20= flor, flour =flower=floriculture=花卉栽培=n.
+F=20= flor, flour =flower=flourish=繁荣，兴旺=v.
+F=20= flor, flour =flower=floral=花的，似花的=a.
+F=21=flu=to flow=fluid=流动，=n.
+F=21=flu=to flow=flux=流动，变迁=n.
+F=22= forc, fort =strong=force=力量，强制力=n.
+F=22= forc, fort =strong=reinforce=加强，巩固=v.
+F=23=form=shape=formal=正式的，正规的=a.
+F=23=form=shape=formation=形成，培养=n.
+F=23=form=shape=formula=公式，信条=n.
+F=24= found, fund =base=foundation=基础，地基=n.
+F=24= found, fund =base=founder=奠基者=n.
+F=25= fract, frag =to break=fraction=部分，小片=n.
+F=25= fract, frag =to break=fracture=骨折，断裂=n.
+F=26=frig=cold=frigid=寒冷的=a.
+F=26=frig=cold=refrigerator=冰箱=n.
+F=27=front=forehead=affront=冒犯=v.
+F=27=front=forehead=confront=面临，对抗=v.
+F=28=fug=to flee=fugitive=逃亡者=n.
+F=28=fug=to flee=fugitive=逃亡的，短暂的=a.
+F=28=fug=to flee=centrifugal=离心的=a.
+F=28=fug=to flee=insectifuge=驱虫药=n.
+F=29=fus=to pour=confuse=使混乱=v.
+F=29=fus=to pour=refuse=拒绝=v.
+F=29=fus=to pour=effuse=流出，=v.
+F=29=fus=to pour=effusion=流出，吐露=n.
+F=29=fus=to pour=confusion=混乱=n.
+F=29=fus=to pour=diffuse=散播=v.
+G=1=gam=marriage=neogamist=新婚者=n.
+G=1=gam=marriage=monogamy=一夫一妻制=n.
+G=2=gar=to furnish=garment=衣服，外衣=n.
+G=2=gar=to furnish=garnish=装饰，加配菜=v.
+G=3= gen, genif = birth, to produce =generate=产生，=v.
+G=3= gen, genif = birth, to produce =generation=一代=n.
+G=3= gen, genif = birth, to produce =genesis=起源，创始=n.
+G=4=geo=earth=geography=地理学=n.
+G=4=geo=earth=geometry=几何学=n.
+G=5=germ=seed=germane=关系密切的=a.
+G=5=germ=seed=germinate=发芽，发育=v.
+G=6= gest, gister = to carry, to bring =gesture=手势，姿势=n.
+G=6= gest, gister = to carry, to bring =congest=拥挤，稠密=v.
+G=6= gest, gister = to carry, to bring =digest=消化，摘要=v.
+G=6= gest, gister = to carry, to bring =suggest=建议，提议=v.
+G=7=glaci=ice=glacier=冰川=n.
+G=7=glaci=ice=glaciology=冰川学=n.
+G=7=glaci=ice=progress=进步，=n.
+G=8= gnos, gnor =to know=ignore=疏忽，不理睬=v.
+G=8= gnos, gnor =to know=ignorance=无知，愚昧=n.
+G=8= gnos, gnor =to know=agnostic=不可知论的=a.
+G=9=grad= step, grade =grade=等级，阶级=n.
+G=9=grad= step, grade =degrade=降级，=v.
+G=9=grad= step, grade =graduate=毕业=v.
+G=10= gram, graph =to write=biography=传记文学=n.
+G=10= gram, graph =to write=telegraph=电报=n.
+G=11=gran=grain=granary=粮仓，谷仓=n.
+G=11=gran=grain=granivorous=食谷的=a.
+G=12= grat, gree =pleasing=gratitude=感激，感恩=n.
+G=12= grat, gree =pleasing=gratification=满足，喜悦=n.
+G=13= grav, griev =heavy=grave=重大的，=a.
+G=13= grav, griev =heavy=grief=悲伤=n.
+G=13= grav, griev =heavy=aggravate=加重，恶化，=v.
+G=14=greg=group=aggregate=聚集，合加=v.
+G=14=greg=group=congregate=聚集=v.
+G=15=gress= to go, to walk =aggression=侵略，攻击=n.
+G=15=gress= to go, to walk =congress=国会，代表大会=n.
+G=16= gyn, gyneco =woman=gynecology=妇科学=n.
+G=16= gyn, gyneco =woman=monogyny=一夫一妻制=n.
+H=1=habit=to dwell=habitant=居住者=n.
+H=1=habit=to dwell=inhabit=居住=v.
+H=2=hal=to breathe=inhale=吸气=v.
+H=2=hal=to breathe=exhale=呼气=v.
+H=3=hap=chance=happen=发生=v.
+H=3=hap=chance=mishap=不幸=n.
+H=4=hav=to possess=have=有=v.
+H=4=hav=to possess=behave=举动，=v.
+H=5=head=head=heading=标题=n.
+H=5=head=head=heady=轻率的=a.
+H=6=heli(o)=sun=heliocentric=以太阳为中心的=a.
+H=6=heli(o)=sun=heliosis=中暑=n.
+H=7=helic(o)=to spiral=helicopter=直升飞机=n.
+H=7=helic(o)=to spiral=helix=螺旋线=n.
+H=8= her, hes =to stick=adhere=粘着，=v.
+H=8= her, hes =to stick=hesitation=犹豫=n.
+H=8= her, hes =to stick=coherent=连贯的，有条理的=a.
+H=9=hibit=to hold=exhibition=展览，表演=n.
+H=9=hibit=to hold=prohibit=阻止，禁止=v.
+H=9=hibit=to hold=inhibit=禁止，阻止=v.
+H=10=hilar=glad=hilarity=高兴，欢乐=n.
+H=10=hilar=glad=exhilarate=使高兴=v.
+H=11=hor= to shudder, dread =horrid=可怕的=a.
+H=11=hor= to shudder, dread =horrible=可怕的=a.
+H=12=hospit=guest=hospitality=好客，殷勤=n.
+H=12=hospit=guest=host=主人=n.
+H=13=hum=earth=human=人类=n.
+H=13=hum=earth=inhume=埋葬=v.
+H=13=hum=earth=exhume=掘出=v.
+H=14= hydr, hydro =water=hydrous=含水的，水壮的=a.
+H=14= hydr, hydro =water=hydroelectric=水利发电的=a.
+H=15=hypno=to sleep=hypnology=催眠学=n.
+H=15=hypno=to sleep=dehypnotize=解除催眠=v.
+I=1= idea, ideo =idea=ideal=理想=n.
+I=1= idea, ideo =idea=idealism=理想主义=n.
+I=2=idio= peculiar, private =idiot=白痴，傻子=n.
+I=2=idio= peculiar, private =idiograph=个人签字=n.
+I=3=idol=image=idol=偶像=n.
+I=3=idol=image=idolize=崇拜=v.
+I=4= imag, imit =likeness=imagine=想像=v.
+I=4= imag, imit =likeness=imitable=模仿=a.
+I=5=insul=island=peninsula=半岛=n.
+I=5=insul=island=insular=岛国的=a.
+I=6=integr=whole=integrity=完整，完全=n.
+I=6=integr=whole=disintegration=瓦解=n.
+I=7=it=to go=exit=出口，=n.
+I=7=it=to go=circuit=环行，电路=n.
+J=1=ject= to throw, to cast =project=投射，放映=v.
+J=1=ject= to throw, to cast =eject=喷出，驱逐=v.
+J=1=ject= to throw, to cast =inject=注射=v.
+J=2=joc=joke=jocose=滑稽的，=a.
+J=2=joc=joke=jocular=爱开玩笑的=a.
+J=3=journ=day=journal=日报，杂志=n.
+J=3=journ=day=journalist=记者=n.
+J=4= jud, judg =to judge=judgment=判断，判断力=n.
+J=4= jud, judg =to judge=prejudge=预先断定=v.
+J=5= junct, join =to join=joint=关节，连接=n.
+J=5= junct, join =to join=disjoin=分开，折断=v.
+J=6=jur= to swear, law =jury=陪审团=n.
+J=6=jur= to swear, law =abjure=发誓放弃=v.
+J=7=juven=young=juvenile=青少年的=a.
+J=7=juven=young=rejuvenation=返老还童=n.
+L=1=labor=labor=laborious=辛苦的，吃力的=a.
+L=1=labor=labor=laboratory=实验室=n.
+L=1=labor=labor=elaborate=精工细做=v.
+L=2=lact=milk=lactic=乳汁的=a.
+L=2=lact=milk=lactate=分泌乳汁=v.
+L=3=langu=faint=languish=倦怠，衰弱=v.
+L=3=langu=faint=languor=衰弱，憔悴=n.
+L=4=laps=to slip=lapse=慢慢沉下，掉下=v.
+L=4=laps=to slip=elapse=时光流失=v.
+L=5=lat=bring out=translate=翻译=v.
+L=5=lat=bring out=collate=校对=v.
+L=6=later=side=unilateral=单边的=a.
+L=6=later=side=bilateral=双边的=a.
+L=7= lav, luv, lut =to wash=lavish=浪费=v.
+L=7= lav, luv, lut =to wash=dilute=冲淡=v.
+L=7= lav, luv, lut =to wash=deluge=大洪水=n.
+L=8=lax=loose=laxity=松弛=n.
+L=8=lax=loose=relax=放松，宽心=v.
+L=9= lect, lig = to choose, to gather =collect=收集=v.
+L=9= lect, lig = to choose, to gather =election=选举=n.
+L=9= lect, lig = to choose, to gather =select=选择=v.
+L=10= lect, leg = to speak, to read =lecture=讲座=n.
+L=10= lect, leg = to speak, to read =idiolect=个人方言=n.
+L=10= lect, leg = to speak, to read =acrolect=上流语言=n.
+L=11= leg, legis =law=legal=法律的=a.
+L=11= leg, legis =law=legislation=立法=n.
+L=12= lev, live = to raise, to lighten =elevator=电梯=v.
+L=12= lev, live = to raise, to lighten =lever=杠杆=n.
+L=12= lev, live = to raise, to lighten =relieve=减轻，解除=v.
+L=13=liber=free=liberty=自由=n.
+L=13=liber=free=liberal=自由的，慷慨的=a.
+L=14=libr=book=library=图书馆=n.
+L=15=lic=to allure=delicate=可口的=a.
+L=15=lic=to allure=elicit=引出，得出=v.
+L=16=licen=to allow=licence=特许，许可证=n.
+L=16=licen=to allow=licentious=放肆的=a.
+L=17= limin, lim =threshold=eliminate=除去，删除=v.
+L=17= limin, lim =threshold=preliminary=预备的=a.
+L=18=line=line=outline=轮廓，大纲=n.
+L=18=line=line=underline=强调，在字下划线=v.
+L=19=lingu=language=linguistics=语言学=n.
+L=19=lingu=language=bilingual=两种语言=a.
+L=20=linqu=to leave=delinquent=有过失的=a.
+L=20=linqu=to leave=relinquish=放弃，放开=v.
+L=21=liter=letter=illiterate=文盲的=a.
+L=21=liter=letter=literature=文学=n.
+L=22=lith=stone=paleolithic=旧石器时代的=a.
+L=22=lith=stone=neolithic=新石器时代的=a.
+L=23=loc=place=local=地方的，=a.
+L=23=loc=place=location=位置，场所=n.
+L=24= log, logu =to speak=dialogue=对话=n.
+L=24= log, logu =to speak=prologue=开场白=n.
+L=25=logy=science=morphology=形态学=n.
+L=25=logy=science=psychology=心理学=n.
+L=26=long=long=longevity=长寿=n.
+L=26=long=long=prolong=延长=v.
+L=27= loqu, locu =to speak=colloquial=口语的=a.
+L=27= loqu, locu =to speak=elocution=雄辩=n.
+L=28= luc, lust = light, shine =lucidity=光明，明白=n.
+L=28= luc, lust = light, shine =luster=光泽，光彩=n.
+L=29=lumin=light=illuminate=照亮，阐明=v.
+L=29=lumin=light=luminous=发亮的=a.
+L=30= lud, lus =to play=elude=躲避，使困倦=v.
+L=30= lud, lus =to play=allude=提及，=v.
+L=31=lun=moon=lunar=月亮的=a.
+L=31=lun=moon=semilunar=半月形的=a.
+M=1=magn=big=magnificence=宏大，庄严=n.
+M=1=magn=big=magniloquent=吹牛的=a.
+M=2=maj=great=major=较大的=a.
+M=2=maj=great=majority=大多数=n.
+M=3=man=hand=manual=手工的=a.
+M=3=man=hand=manuscript=手稿=n.
+M=3=man=hand=manufacture=制造，加工=v.
+M=4= man, main =stay=permanent=持久的，不变的=a.
+M=4= man, main =stay=remain=剩余，遗留=v.
+M=5=mar=sea=marine=海的=a.
+M=5=mar=sea=submarine=潜水艇=n.
+M=6=mark=sign=marked=有记号的=a.
+M=6=mark=sign=landmark=里程碑=n.
+M=7= mater, matr =mother=maternal=母亲的=a.
+M=7= mater, matr =mother=matriarchy=母系制=n.
+M=8= med, medi =middle=medial=中间的，平均的=a.
+M=8= med, medi =middle=mediate=调停=v.
+M=8= med, medi =middle=medium=媒介物=n.
+M=9=mend=free from fault=amend=改正，改过=v.
+M=9=mend=free from fault=emend=改正，=v.
+M=10=memor=memory=memory=记忆，记忆力=n.
+M=10=memor=memory=remember=回忆，记住=v.
+M=11=ment=mind=mental=智力的，精神的=a.
+M=11=ment=mind=mentality=智力，精神=n.
+M=11=ment=mind=mention=提到，论及=v.
+M=12= merc, merch =trade=commerce=商业=n.
+M=12= merc, merch =trade=merchant=商人=n.
+M=13= merg, mers =to sink=emerge=浮现，出现=a.
+M=13= merg, mers =to sink=submerge=沉入，沉入水中=v.
+M=13= merg, mers =to sink=merge=合并=v.
+M=14= meter, metr, meas, mens =to measure=diameter=直径=n.
+M=14= meter, metr, meas, mens =to measure=perimeter=周长=n.
+M=14= meter, metr, meas, mens =to measure=dimension=大小，面积=n.
+M=15=migr=to remove=migrate=迁移，移住=v.
+M=15=migr=to remove=immigrate=移居入境=v.
+M=16=milit=soldier=militant=好战的=a.
+M=16=milit=soldier=military=军人的，军队的=a.
+M=17=min=to project=eminent=杰出的，=a.
+M=17=min=to project=prominent=突出的，显著的=a.
+M=18=mini=small=diminish=减少，缩小=v.
+M=18=mini=small=minor=较少的，较小的=a.
+M=18=mini=small=minority=少数=n.
+M=19=mir=wonder=miracle=奇迹=n.
+M=19=mir=wonder=miraculous=奇迹般的=a.
+M=20=mis (o)=hate=misanthropist=厌世者=n.
+M=20=mis (o)=hate=misogamist=厌恶结婚者=n.
+M=21=mob=move=mobile=活动的，可动的=a.
+M=21=mob=move=mobility=能动性=n.
+M=22=mod= mode, manner =modify=修改=v.
+M=22=mod= mode, manner =modest=谦虚的=a.
+M=22=mod= mode, manner =moderate=适度的=a.
+M=23= mon, monit =to warn=monitor=忠告，警告=n.
+M=23= mon, monit =to warn=admonish=训诫，警告=v.
+M=24=monstr=to show=monster=怪物=n.
+M=24=monstr=to show=demonstrate=证明，示威游行=v.
+M=25=morph= to form, to shape =amorphous=不定形的=a.
+M=25=morph= to form, to shape =morphology=形态学=n.
+M=26=mort=death=mortal=死的，致命的=a.
+M=26=mort=death=immortal=不朽的=a.
+M=27=mot=to move=promote=促进，提升=v.
+M=27=mot=to move=motion=运动=n.
+M=27=mot=to move=motivate=推动，=v.
+M=28=mount=to ascend=mount=登上=v.
+M=28=mount=to ascend=mountain=山=n.
+M=29=mun=public=commune=公社=n.
+M=29=mun=public=community=社区=n.
+M=30=mur=wall=mural=墙壁的=a.
+M=30=mur=wall=immure=监禁，禁闭=v.
+M=31=mus=muse=museum=博物馆=n.
+M=31=mus=muse=music=音乐=n.
+M=31=mus=muse=amuse=娱乐=v.
+M=32=mut=change=mutable=易变的=a.
+M=32=mut=change=mutability=易变=n.
+N=1=nat=born=natal=诞生的=a.
+N=1=nat=born=nationality=国民性，国籍=n.
+N=1=nat=born=native=故乡的，本地的=a.
+N=2= nav, naut =ship=navy=海军=n.
+N=2= nav, naut =ship=navigate=驾驶，航海=v.
+N=3= nect, nex =to bind=connect=连结=v.
+N=3= nect, nex =to bind=disconnect=拆开，分离=v.
+N=4= neg,ni =to deny=deny=否认，拒绝=v.
+N=4= neg,ni =to deny=neglect=忽视，不顾=n.
+N=5= negr, nigr =black=negro=黑人=n.
+N=5= negr, nigr =black=denigrate=抹黑=v.
+N=6=neur=nerve=neurology=神经病学=n.
+N=6=neur=nerve=neuropath=神经病患者=n.
+N=7=nihil=nothing=nihil=虚无，毫无价值=n.
+N=7=nihil=nothing=nihilism=虚无主义=n.
+N=8=noct=night=noctambulate=梦游=v.
+N=8=noct=night=pernoctation=整夜不归（不眠）=n.
+N=9= noc, nox =to hurt=innocent=无害的，天真的=a.
+N=9= noc, nox =to hurt=nocuous=有毒的=a.
+N=10=nom(y)=a field of knowledge=astronomy=天文学=n.
+N=10=nom(y)=a field of knowledge=agronomy=农学=n.
+N=11=nomin=to name=nominate=提名，任命=v.
+N=11=nomin=to name=denominate=给命名=v.
+N=12=norm= to rule, norm =normal=正常的=a.
+N=12=norm= to rule, norm =abnormal=异常的=a.
+N=13=nost=home=nostalgia=思乡病=n.
+N=13=nost=home=nostrum=民间药，秘药方=n.
+N=14=not=to know=notable=值得注意的=a.
+N=15= nounce, nunci =to speak=pronounce=发音=v.
+N=15= nounce, nunci =to speak=announce=宣布，发表=v.
+N=15= nounce, nunci =to speak=denounce=抨击，指责=v.
+N=16=nov=new=novelty=新奇事情=n.
+N=16=nov=new=innovation=革新，改革=n.
+N=17=null=none=null=无效的，等于零的=a.
+N=17=null=none=annul=取消，废除=v.
+N=18=numer=number=numerous=数目众多的=a.
+N=18=numer=number=enumerate=列举，点数=v.
+N=19=nutri=nourish=nutrition=营养=n.
+N=19=nutri=nourish=nutrient=营养品=n.
+O=1=oner=load=onerous=繁重的，费力的=a.
+O=1=oner=load=exonerate=免除，无罪释放=v.
+O=1=oner=load=onus=负担，责任=n.
+O=2=onym=name=onymous=有名字的=a.
+O=2=onym=name=anonymous=无名的，匿名的=a.
+O=3=oper=to work=operation=操作，手术=n.
+O=3=oper=to work=cooperation=合作=n.
+O=4=opt= to choose, sight =optional=可任意选择的=a.
+O=4=opt= to choose, sight =adopt=采纳，收养=v.
+O=4=opt= to choose, sight =optic=眼的，视力的=a.
+O=4=opt= to choose, sight =optics=光学=n.
+O=5=optim=best=optimism=乐观主义=n.
+O=5=optim=best=optimistic=乐观的=a.
+O=6=ora=mouth=orator=演说家=n.
+O=6=ora=mouth=oral=口头的=a.
+O=7=orbit=circle=orbit=轨道=n.
+O=7=orbit=circle=orbital=轨道的=a.
+O=8= ori, orig = to rise, to begin =oriental=东方的=a.
+O=8= ori, orig = to rise, to begin =original=起源的=a.
+O=9=ordin=order=ordain=规定，命令=n.
+O=9=ordin=order=coordinate=协作=v.
+O=10=orn=embellish=adorn=装饰=v.
+O=10=orn=embellish=ornament=装饰品=n.
+O=11=ot(o)=ear=otology=耳科学=n.
+O=11=ot(o)=ear=otopathy=耳病=n.
+P=1=par=equal=parity=同等，同样=n.
+P=1=par=equal=imparity=不平等=n.
+P=1=par=equal=parent=父母=n.
+P=1=par=equal=multiparous=多产的，多胎的=a.
+P=2= par, pear =to come in sight=apparent=明显的=a.
+P=2= par, pear =to come in sight=appear=出现=v.
+P=2= par, pear =to come in sight=disappear=消失=v.
+P=3=parl=to speak=parley=谈判，会谈=n.
+P=3=parl=to speak=parliament=国会=n.
+P=4= part, port = part, divide =apartment=公寓=n.
+P=4= part, port = part, divide =depart=离开=v.
+P=5=pass= to pass through, feeling =passage=通过，通行=n.
+P=5=pass= to pass through, feeling =passport=护照=n.
+P=5=pass= to pass through, feeling =passion=激情=n.
+P=5=pass= to pass through, feeling =compassion=同情=n.
+P=6= path, pathy = feeling, suffering =sympathy=同情=n.
+P=6= path, pathy = feeling, suffering =pathology=病理学=n.
+P=7=patri=father=patriarchy=父权政治=n.
+P=7=patri=father=patriotism=爱国主义=n.
+P=8=ped= foot, child, education =biped=双足动物的=a.
+P=8=ped= foot, child, education =expedition=远征，探险=n.
+P=8=ped= foot, child, education =pedology=儿科学=n.
+P=8=ped= foot, child, education =pedant=书呆子=n.
+P=8=ped= foot, child, education =pedagogy=教学法=n.
+P=9= pel, puls = to drive, to push =compel=强迫=v.
+P=9= pel, puls = to drive, to push =expel=开除，驱逐=v.
+P=9= pel, puls = to drive, to push =impel=推进，驱动=v.
+P=10= pen, pun =penalty=penalty=惩罚=n.
+P=10= pen, pun =penalty=penitent=后悔的=a.
+P=11= pend, pens =to hang=pendant=垂饰=n.
+P=11= pend, pens =to hang=suspend=悬吊，停止=v.
+P=11= pend, pens =to hang=suspense=悬念=n.
+P=12= pend, pens, pond = weight, to expend =expend=花费=v.
+P=12= pend, pens, pond = weight, to expend =expensive=很贵的=a.
+P=12= pend, pens, pond = weight, to expend =ponder=沉思=v.
+P=12= pend, pens, pond = weight, to expend =ponderous=笨重的，重的=a.
+P=13=peri=to try=peril=冒险=v.
+P=13=peri=to try=perilous=危险的=a.
+P=13=peri=to try=experience=经验，经历=n.
+P=13=peri=to try=experiment=实验=n.
+P=14=pet=to seek=petition=请愿，申请=n.
+P=14=pet=to seek=compete=竞争，竞赛=v.
+P=15=petr(o)=stone=petroleum=石油=n.
+P=15=petr(o)=stone=petrochemistry=石油化学=n.
+P=16=phag=to eat=zoophagous=吃动物的，食肉的=a.
+P=16=phag=to eat=dysphagia=下咽困难=n.
+P=17=phil=to love=philanthropy=博爱=n.
+P=17=phil=to love=zoophilous=爱护动物的=a.
+P=18= phob, phobia =to dislike=hydrophobia=恐水症=n.
+P=18= phob, phobia =to dislike=acrophobia=恐高症=n.
+P=19=phon=sound=symphony=交响乐=n.
+P=19=phon=sound=microphone=麦克风=n.
+P=20=photo=light=photograph=照片=n.
+P=20=photo=light=photogenic=生物发光的=a.
+P=21=phyto=plant=hydrophyte=水生植物=n.
+P=21=phyto=plant=phytogeography=植物地理学=n.
+P=22=pict=to paint=picture=图画，照片=n.
+P=22=pict=to paint=picturesque=风景如画的=a.
+P=23=pisc=fish=piscary=捕鱼场=n.
+P=23=pisc=fish=pisciculture=养鱼业=n.
+P=24=plac=calm=placid=平静的=a.
+P=24=plac=calm=implacable=不平静的=a.
+P=25=place=place=displace=移位，顶替=v.
+P=25=place=place=replace=代替=v.
+P=26=plat=flat=plateau=平顶，高原=n.
+P=26=plat=flat=platform=月台，讲台=n.
+P=27=plant=plant=plantation=大农场，造林=n.
+P=27=plant=plant=implant=播种，插入=v.
+P=28=plaud=to clap hands=applaud=拍手喝彩=v.
+P=28=plaud=to clap hands=applause=鼓掌=n.
+P=29= ple, plen, pli = full, to fill =complement=补充，补全=n.
+P=29= ple, plen, pli = full, to fill =supplement=增补=n.
+P=30=plex=to fold=complex=复杂的=a.
+P=30=plex=to fold=duplex=二重的=a.
+P=31= plic, ply =to fold=complicate=弄复杂=v.
+P=31= plic, ply =to fold=implicate=牵连，含蓄表达=v.
+P=32=plor= to cry, to weep =implore=恳求，乞求=v.
+P=32=plor= to cry, to weep =deplore=悲叹，痛惜=v.
+P=32=plor= to cry, to weep =explore=探索，钻研=v.
+P=33= point, punct = point, make sharp =pointer=指针，指示者=n.
+P=33= point, punct = point, make sharp =punctual=准时的=a.
+P=34= polic, polis, polit = state, city =cosmopolis=国际都市=n.
+P=34= polic, polis, polit = state, city =polis=古希腊城邦=n.
+P=34= polic, polis, polit = state, city =metropolis=大都市=n.
+P=35=pon=to put=postpone=推迟=v.
+P=35=pon=to put=opponent=对立的=a.
+P=36=popul=people=population=人口=n.
+P=36=popul=people=popular=流行的=a.
+P=37=port=to carry=portable=可携带的=a.
+P=37=port=to carry=porter=搬运工=n.
+P=38= pos, posit =to put=pose=作姿态=v.
+P=38= pos, posit =to put=compose=组成，=v.
+P=39=post=behind=posterior=以后的=a.
+P=39=post=behind=posterity=后代=n.
+P=40=poten=powerful=potent=强有力的=a.
+P=40=poten=powerful=potential=潜力=n.
+P=41= prais, preci =value=appraise=评价=v.
+P=41= prais, preci =value=precious=珍贵的=a.
+P=41= prais, preci =value=appreciate=评价，欣赏=v.
+P=42=prehen=to catch=apprehension=理解，忧虑=n.
+P=42=prehen=to catch=comprehend=了解，理解，包括=v.
+P=43=press=to press=pressing=急迫的=a.
+P=43=press=to press=compress=压缩，缩短=v.
+P=43=press=to press=pressure=压力=n.
+P=44=prim= first, chief =primary=最初的，根本的=a.
+P=44=prim= first, chief =primitive=原始的=a.
+P=45=pris=to take=apprise=通知，报告=v.
+P=45=pris=to take=comprise=包括，含有=v.
+P=46=priv= single, alone =private=私人的=a.
+P=46=priv= single, alone =privilege=特权=n.
+P=47=proach=near=approach=接近=v.
+P=47=proach=near=approachable=易接近的=a.
+P=48= prob, prov =to test=approve=赞成=v.
+P=48= prob, prov =to test=disprove=不赞成，=v.
+P=49=prol=offspring=prolific=多产的，多育的=a.
+P=49=prol=offspring=proliferate=繁殖，激增=v.
+P=50= proper, propri =one=property=所有物，特性=n.
+P=50= proper, propri =one=appropriate=拨款，挪用=v.
+P=51=pugn=to fight=impugn=责难=v.
+P=51=pugn=to fight=pugnacious=好斗的=a.
+P=52= pur, purg =pure=purity=纯净，纯正=n.
+P=52= pur, purg =pure=impure=不纯的=a.
+P=53=put=to think=dispute=反驳=v.
+P=53=put=to think=compute=计算=v.
+P=53=put=to think=computer=计算机=n.
+Q=1=quaint=to know=acquaint=使了解，告知=v.
+Q=1=quaint=to know=acquaintance=了解，熟悉=n.
+Q=2= quest, quir, quis, quer = to seek, to search =question=疑问=n.
+Q=2= quest, quir, quis, quer = to seek, to search =request=要求，恳求=n.
+Q=2= quest, quir, quis, quer = to seek, to search =request=要求，恳求=v.
+Q=2= quest, quir, quis, quer = to seek, to search =acquire=获取=v.
+Q=3= quiet, quies =still=quietude=安静=n.
+Q=3= quiet, quies =still=acquiescence=默认，默许=n.
+Q=4=quit=free=quit=停止，放弃=v.
+Q=4=quit=free=acquit=开释，免罪=v.
+R=1=radic=root=radical=根本的，=a.
+R=1=radic=root=eradicate=根除，消灭=v.
+R=2=rage=mad=rage=狂怒=n.
+R=2=rage=mad=outrage=暴行，残暴=n.
+R=3=range=rank=arrange=安排=v.
+R=3=range=rank=derange=扰乱，使混乱=v.
+R=3=range=rank=disarrange=弄乱=v.
+R=4= rap, rapt, rav =to snatch=rape=强奸，=v.
+R=4= rap, rapt, rav =to snatch=ravish=抢夺=v.
+R=4= rap, rapt, rav =to snatch=ravage=破坏=n.
+R=8= rod, ros =to bite=corrode=腐蚀=v.
+R=8= rod, ros =to bite=erode=侵蚀=v.
+R=9=rog=to ask=arrogate=霸占=v.
+R=9=rog=to ask=interrogate=审问=v.
+R=10=rot=wheel=rotate=旋转=v.
+R=10=rot=wheel=rotund=圆形的，圆胖的=a.
+R=11=rud=rude=rude=原始的，粗鲁的=a.
+R=11=rud=rude=rudimental=基本的=a.

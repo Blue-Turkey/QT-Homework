@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>intro1</class>
+ <widget class="QDialog" name="intro1">
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
